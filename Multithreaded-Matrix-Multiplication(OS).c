@@ -1,4 +1,3 @@
-// Noor Alhaj 1221543
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
